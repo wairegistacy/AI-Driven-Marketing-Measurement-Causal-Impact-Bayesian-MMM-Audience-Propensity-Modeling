@@ -36,6 +36,10 @@ Interpretation:
 - Pre-trends track closely between treated and control groups.
 - Placebo estimates are economically insignificant relative to observed treatment effects, supporting the parallel trends assumption.
 
+## Results (Diagnostics)
+![Parallel Trends — Bookings](outputs/did_outputs/parallel_trends_bookings.png)
+![Parallel Trends — Revenue](outputs/did_outputs/parallel_trends_revenue.png)
+
 ## How to run
 ```bash
 python src/01_did_incrementality.py
