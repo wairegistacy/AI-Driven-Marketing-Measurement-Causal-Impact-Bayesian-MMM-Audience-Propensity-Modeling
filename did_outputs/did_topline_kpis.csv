@@ -1,0 +1,2 @@
+pre_start,pre_end,post_start,post_end,treated_geos,contol_geos,did_bookings_per_geo,did_revenue_per_geo,did_spend_per_geo,incremental_bookings_est,incremental_revenue_est,incremental_spend_est,iROAS_est,cost_per_incremental_booking_est
+2024-05-17,2024-07-31,2024-08-01,2024-10-15,4,8,37.875,71456.4895801862,88277.40529858197,151.5,285825.9583207448,353109.6211943279,0.8094538952351155,2330.756575540118
